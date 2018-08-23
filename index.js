@@ -9,7 +9,6 @@ return string
 
 
 function summonCaptainPlanet(planeteerCalls){
-  for (i)
 }
 
 function longPlaneteerCalls(words) {
